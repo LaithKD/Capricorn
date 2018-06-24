@@ -619,7 +619,7 @@ font-family: Arial;
 
 
 .image-bg .hero-section {
-	background: linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)), url(../red-and-black-wallpaper-for-computer-29-high-resolution-wallpaper.jpg) no-repeat center center;
+	background: linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)), url(../red-and-black-wallpaper-for-computer-29-high-resolution-wallpaper.jpg);
 	background-size: cover;
 	padding: 150px 0 100px 0;
 }
@@ -1327,7 +1327,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 }
 
 .feature-sub {
-	background: linear-gradient(to right, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.6)), url(../166518.jpg) no-repeat center center;
+	background: linear-gradient(to right, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.6)), url(../166518.jpg);
 	background-size: cover;
 	padding: 150px 0 150px 0;
 }
@@ -1755,7 +1755,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 .cta-sub {
 	padding-top: 150px;
 	padding-bottom: 150px;
-	background: linear-gradient(to right, rgba(0, 174, 218, 0.5), rgba(0, 174, 218, 0.9)), url(../cta_bg.jpg) no-repeat center center;
+	background: linear-gradient(to right, rgba(0, 174, 218, 0.5), rgba(0, 174, 218, 0.9)), url(../cta_bg.jpg);
 	background-size: cover;
 }
 
