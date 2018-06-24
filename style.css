@@ -536,7 +536,7 @@ font-family: Arial;
 /*---------------- Form Home Styling ------------------- */
 
 .form .hero-section {
-	background:url(../Prototype/red-and-black-wallpaper-for-computer-29-high-resolution-wallpaper.jpg);
+	background:url(../red-and-black-wallpaper-for-computer-29-high-resolution-wallpaper.jpg);
 	background-size: cover;
 	padding: 150px 0 0 0;
 }
@@ -1327,7 +1327,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 }
 
 .feature-sub {
-	background: linear-gradient(to right, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.6)), url(../Prototype/166518.jpg) no-repeat center center;
+	background: linear-gradient(to right, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.6)), url(../166518.jpg) no-repeat center center;
 	background-size: cover;
 	padding: 150px 0 150px 0;
 }
